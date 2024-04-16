@@ -15,6 +15,9 @@ NIM  : 12030122140231
 # Tampilan Sistem Baru : Terdapat Perubahan Pada Nama Designer di Sebelah Bawah Username & Password
 ![image](https://github.com/nailaimara/PengkodeanDanPemrograman-Sistem-Posyandu/blob/main/Sistem%20Baru.png)
 
+# ERD Sistem Posyandu 
+![image](https://github.com/nailaimara/PengkodeanDanPemrograman-Sistem-Posyandu/blob/main/ERD%20Sistem%20Posyandu.jpeg)
+
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
