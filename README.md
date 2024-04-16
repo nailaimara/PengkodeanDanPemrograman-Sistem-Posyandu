@@ -13,7 +13,7 @@ NIM  : 12030122140231
 ![image](https://github.com/nailaimara/PengkodeanDanPemrograman-Sistem-Posyandu/blob/main/Sistem%20Lama.png)
 
 # Tampilan Sistem Baru : Terdapat Perubahan Pada Nama Designer di Sebelah Bawah Username & Password
-
+![image](https://github.com/nailaimara/PengkodeanDanPemrograman-Sistem-Posyandu/blob/main/Sistem%20Baru.png)
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
